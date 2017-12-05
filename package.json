@@ -1,0 +1,9 @@
+{
+  "name": "wordpress-api",
+  "version": "1.0.0",
+  "description": "Wordpress API practice app",
+  "main": "index.js",
+  "repository": "git@github.com:ASINNV/wordpress-api.git",
+  "author": "<omgitsadrian@gmail.com>",
+  "license": "MIT"
+}
